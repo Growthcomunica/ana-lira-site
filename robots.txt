@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://growthcomunica.github.io/ana-lira-site/sitemap.xml
